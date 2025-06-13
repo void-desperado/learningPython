@@ -14,7 +14,7 @@ Table of Contents
 
 1) Repository Structure
    
-    learningCportfolio/
+    learningPython/
     ├── docs/ # General notes, reference materials, cheat‐sheets
     ├── .gitignore # Ignore build artifacts and editor backups
     ├── LICENSE # MIT (or chosen) license
