@@ -1,0 +1,7 @@
+myList=list(range(1,21))
+print("The first three items in the list are:")
+print(myList[:3])
+print("The last three items in the list are:")
+print(myList[-3:])
+print("The middle three items in the list are:")
+print(myList[8:11])
