@@ -1,0 +1,10 @@
+me={
+    'name':'Satvik',
+    'lastName':'Miglani',
+    'age':19,
+    'city':'Chandigarh'
+}
+print(me['name'])
+print(me['lastName'])
+print(me['age'])
+print(me['city'])
